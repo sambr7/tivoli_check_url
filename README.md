@@ -2,7 +2,12 @@
 
 This is a simple script to check URL statuses using ITM 6.3 FP7
 
-Instructions:
+### Requirements:
+
+curl
+awk
+
+### Instructions:
 
 In this example I'm using Linux Agent (LZ) to check some URLs.
 
